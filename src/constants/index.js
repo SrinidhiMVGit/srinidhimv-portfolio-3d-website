@@ -116,12 +116,12 @@ const experiences = [
     iconBg: "#383E56",
     date: "Dec 2023 - Present",
     points: [
-      "Compiled research data and gave professional presentations highlighting finds and recommended optimizations.",
-      "Evaluated diverse organizational systems to identify workflow, communication, and resource utilization issues.",
-      "Conducted thorough reviews of operations to devise and deploy improvement strategies.",
-      "Leveraged on-site observation and personal interviews to identify team and individual strengths.",
-      "Learnt new technologies in short time and adopted to new work environment",
-      "Mentored, trained juniors and was involved in team building activities",
+      "Team Leadership & Governance: Led a cross-functional team of up to 10 frontend and backend engineers. Mentored team members, managed sprint lifecycles, and translated complex business requirements into clear technical blueprints",
+      "Full-Stack & Microservices Architecture: Co-designed and developed high-concurrency, reactive microservices and responsive user interfaces. Engineered a global localization system that eliminated cross-border display anomalies across multiple services",
+      "Data Pipeline Engineering: Spearheaded the development of automated data pipelines using shell scripting and asynchronous processing. Ensured flawless daily data synchronization from MySQL to Oracle DB and Cassandra with built-in error handling.",
+      "DevOps & Cloud Observability: Accelerated CI/CD workflows by containerizing services using Docker and managing Kubernetes manifests. Enabled frictionless blue-green production deployments using Jenkins, GitHub Actions, and Spinnaker.",
+      "QA & Performance Validation: Directed the creation of automated unit and acceptance test suites. Authored custom high-load performance test scenarios using Gatling and Kotlin to guarantee platform stability during global traffic spikes.",
+      "AI-Assisted Productivity: Integrated generative AI tools (GitHub Copilot, Gemini AI, Spring AI) into the development lifecycle to accelerate architecture ",
     ],
   },
   {
