@@ -47,11 +47,17 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm a skilled software developer with experience in TypeScript and
-        JavaScript, and expertise in frameworks like React, Node.js, and
-        Three.js. I'm a quick learner and collaborate closely with clients to
-        create efficient, scalable, and user-friendly solutions that solve
-        real-world problems. Let's work together to bring your ideas to life!
+        Dynamic software engineer with 10.6 years of expertise in Java and
+        ReactJS, specializing in the development of high-performance systems
+        and pioneering AI-driven engineering solutions. Focus on designing
+        intelligent workflows that integrate AI as a core development partner,
+        leveraging AI coding assistants, automated code-generation agents, and
+        LLM-powered testing frameworks to streamline the software development
+        lifecycle. Proven track record of reducing development cycles, eliminating
+        routine technical debt, and enhancing team velocity. Adept at bridging
+        robust enterprise-grade Java backends with pixel-perfect ReactJS
+        frontends, ensuring impeccable code quality and unparalleled
+        engineering efficiency.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
